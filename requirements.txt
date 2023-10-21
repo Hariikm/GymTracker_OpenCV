@@ -1,4 +1,6 @@
 numpy
 mediapipe
 opencv-python==4.5.4.60
+pyyaml
+python-box==6.0.2
 -e .

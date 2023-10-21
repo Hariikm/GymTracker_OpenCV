@@ -1,0 +1,8 @@
+min_detection_confidence: .05
+min_tracking_confidence: .05
+window_close_key: 'q'
+rectangle_color: [245,117,16]
+title_font_color: [0,0,0]
+rep_and_stage_color: [255, 255, 255]
+curl_up_threshold: 50
+curl_down_threshold: 160
